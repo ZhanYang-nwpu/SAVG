@@ -31,8 +31,8 @@
 </div>
 
 ### Dataset Preparation Tutorial:
-- Step1: Please download the JSON annotation file: https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG
-- Step2: Please download the aerial video from the official link of WebUAV-3M.
+- Step1: Please download the JSON annotation file: https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG .
+- Step2: Please download the aerial video from the official link of WebUAV-3M: https://github.com/983632847/WebUAV-3M?tab=readme-ov-file#dataset-download.
 
 
 
