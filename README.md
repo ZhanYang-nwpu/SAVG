@@ -19,7 +19,7 @@
  
 
 ## 📢 Latest Updates
-- 📦 Paper, codebase, and dataset are coming soon! 🚀
+- 📦 Paper and codebase are coming soon! 🚀
 - **Dec-09-2025**: Our UAV-SVG dataset is released. 🔥🔥
 - **Sep-19-2025**: SAVG paper is accepted by NeurIPS 2025. 🔥🔥 
 ---
