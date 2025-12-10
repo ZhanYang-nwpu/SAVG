@@ -50,6 +50,10 @@ If you found this code useful, please cite the paper. Welcome :+1:_<big>`Fork an
   }
 ```
 
+## 🙏Acknowledgments
+Our UAV-SVG is constructed based on the [WebUAV-3M](https://github.com/983632847/WebUAV-3M?tab=readme-ov-file#dataset-download) aerial video object tracking dataset. We thank to the authors for releasing the dataset. I would like to thank Xiong zhitong and Yuan yuan for helping the manuscript.
+
+
 ## License
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only.
 Any commercial use should get formal permission first.
