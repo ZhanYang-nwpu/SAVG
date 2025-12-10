@@ -38,4 +38,19 @@
 
 
 
+## 📜Reference
+If you found this code useful, please cite the paper. Welcome :+1:_<big>`Fork and Star`</big>_:+1:, then I will let you know when we update.
+```
+@inproceedings{zhandoes,
+  author={Zhan, Yang and Yuan, Yuan},
+  title={Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
+  year={2025}
+  }
+```
+
+## License
+Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only.
+Any commercial use should get formal permission first.
+
 
